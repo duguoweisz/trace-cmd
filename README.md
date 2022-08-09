@@ -11,7 +11,8 @@ Android: 12
 ***********************************************************************  
 在Ubuntu上编译可在android上独立使用的静态trace-cmd，如下:  
 ***********************************************************************  
-1.apt-get source trace-cmd  
+
+1. apt-get source trace-cmd  
         https://trace-cmd.org/  
         Latest stable release: trace-cmd-v2.9.6  
         
